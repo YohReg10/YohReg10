@@ -1,5 +1,5 @@
 # 💫 About Me:
-👾 Web Dev Student at Ada Tech School<br>💼 Seeking an internship<br>🌃 Location City: Lyon<br><br>🌟 Interests :<br>Sports 🏋️<br>Reading 📖<br>Traveling 🗺️⁀જ✈︎<br><br>🧠 Soft Skills :<br>Rigorous<br>Curious<br>Team player<br><br>💻 Hard Skills<br>Clean code<br>Algorithms<br><br>
+👾 Web Dev Student at Ada Tech School<br>💼 Seeking an internship<br>🌃 Location City: Montpellier<br><br>🌟 Interests :<br>Sports 🏋️<br>Reading 📖<br>Traveling 🗺️⁀જ✈︎<br><br>🧠 Soft Skills :<br>Rigorous<br>Curious<br>Team player<br><br>💻 Hard Skills<br>Clean code<br>Algorithms<br><br>
 
 
 ## 🌐 Socials:
